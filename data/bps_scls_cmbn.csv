@@ -1,0 +1,239 @@
+﻿OID_,Value,Count,scls_aoi,bps_aoi,BPS_MODEL,BPS_NAME,LABEL
+1,1,1203620.000000000000000,5,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,E
+2,2,561842.000000000000000,3,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,C
+3,3,78863.000000000000000,7,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UE
+4,4,1507599.000000000000000,4,1623,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,D
+5,5,39296.000000000000000,2,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,B
+6,6,4262134.000000000000000,4,1639,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,D
+7,7,629033.000000000000000,111,11,,Open Water,Water
+8,8,25642.000000000000000,7,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,UE
+9,9,1068932.000000000000000,3,1639,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,C
+10,10,172329.000000000000000,120,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Developed
+11,11,360577.000000000000000,6,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UN
+12,12,2079283.000000000000000,4,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,D
+13,13,1601853.000000000000000,4,1625,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,D
+14,14,38751.000000000000000,3,1621,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,C
+15,15,32648.000000000000000,120,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,Developed
+16,16,146595.000000000000000,120,1623,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Developed
+17,17,154381.000000000000000,120,1625,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Developed
+18,18,78041.000000000000000,7,1623,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,UE
+19,19,68664.000000000000000,120,1639,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Developed
+20,20,10176.000000000000000,120,1621,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Developed
+21,21,829315.000000000000000,3,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,C
+22,22,17808.000000000000000,3,1625,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,C
+23,23,229998.000000000000000,2,1639,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,B
+24,24,48594.000000000000000,6,1621,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,UN
+25,25,273886.000000000000000,1,1639,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,A
+26,26,47703.000000000000000,180,1639,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Agriculture
+27,27,45779.000000000000000,7,1639,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,UE
+28,28,7794.000000000000000,1,1625,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,A
+29,29,110512.000000000000000,1,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,A
+30,30,47896.000000000000000,6,1633,14440_41_50_51,Eastern Boreal Floodplain,UN
+31,31,167443.000000000000000,180,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Agriculture
+32,32,12613.000000000000000,2,1625,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,B
+33,33,56736.000000000000000,7,1625,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,UE
+34,34,521538.000000000000000,4,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,D
+35,35,90995.000000000000000,3,1633,14440_41_50_51,Eastern Boreal Floodplain,C
+36,36,126312.000000000000000,2,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,B
+37,37,9092.000000000000000,1,1623,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,A
+38,38,73925.000000000000000,180,1625,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Agriculture
+39,39,64839.000000000000000,6,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,UN
+40,40,122990.000000000000000,120,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Developed
+41,41,3272.000000000000000,1,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,A
+42,42,115437.000000000000000,7,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,UE
+43,43,35178.000000000000000,3,1623,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,C
+44,44,187347.000000000000000,3,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,C
+45,45,7642.000000000000000,7,1621,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,UE
+46,46,19665.000000000000000,6,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,UN
+47,47,27522.000000000000000,3,1636,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,C
+48,48,3794.000000000000000,2,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,B
+49,49,21482.000000000000000,120,1640,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Developed
+50,50,8139.000000000000000,180,1620,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Agriculture
+51,51,131.000000000000000,1,1615,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,A
+52,52,7225.000000000000000,180,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,Agriculture
+53,53,495273.000000000000000,4,1624,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,D
+54,54,231.000000000000000,3,1640,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,C
+55,55,1513.000000000000000,2,1640,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,B
+56,56,8020.000000000000000,6,1640,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,UN
+57,57,1102.000000000000000,7,1633,14440_41_50_51,Eastern Boreal Floodplain,UE
+58,58,6777.000000000000000,132,31,,Barren-Rock/Sand/Clay,Barren or Sparse
+59,59,127606.000000000000000,180,1623,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Agriculture
+60,60,1264.000000000000000,120,1636,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Developed
+61,61,20487.000000000000000,7,1640,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,UE
+62,62,16311.000000000000000,7,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,UE
+63,63,20439.000000000000000,120,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,Developed
+64,64,2595.000000000000000,5,1637,14770_40_41_50_51,Boreal Acidic Peatland Systems,E
+65,65,30975.000000000000000,6,1636,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,UN
+66,66,61509.000000000000000,7,1622,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,UE
+67,67,91030.000000000000000,120,1622,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Developed
+68,68,411.000000000000000,4,1633,14440_41_50_51,Eastern Boreal Floodplain,D
+69,69,40721.000000000000000,180,1622,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Agriculture
+70,70,78456.000000000000000,4,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,D
+71,71,2145.000000000000000,180,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,Agriculture
+72,72,9654.000000000000000,3,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,C
+73,73,1811.000000000000000,6,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,UN
+74,74,132656.000000000000000,7,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UE
+75,75,61962.000000000000000,120,1624,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Developed
+76,76,54817.000000000000000,5,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,E
+77,77,3889.000000000000000,2,1621,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,B
+78,78,1004864.000000000000000,3,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,C
+79,79,423470.000000000000000,2,1622,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,B
+80,80,2156307.000000000000000,5,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,E
+81,81,933.000000000000000,180,1621,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Agriculture
+82,82,2766.000000000000000,180,1633,14440_41_50_51,Eastern Boreal Floodplain,Agriculture
+83,83,77264.000000000000000,3,1622,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,C
+84,84,598071.000000000000000,6,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UN
+85,85,390.000000000000000,180,1640,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Agriculture
+86,86,12376.000000000000000,3,1624,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,C
+87,87,910.000000000000000,6,1641,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,UN
+88,88,302698.000000000000000,120,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Developed
+89,89,4532.000000000000000,1,1622,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,A
+90,90,48686.000000000000000,2,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,B
+91,91,405.000000000000000,4,1641,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,D
+92,92,109.000000000000000,1,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,A
+93,93,4235.000000000000000,1,1624,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,A
+94,94,447428.000000000000000,180,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Agriculture
+95,95,60125.000000000000000,180,1624,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Agriculture
+96,96,25810.000000000000000,7,1624,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,UE
+97,97,86143.000000000000000,3,1629,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,C
+98,98,11211.000000000000000,7,1629,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,UE
+99,99,272.000000000000000,2,1629,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,B
+100,100,11978.000000000000000,120,1629,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Developed
+101,101,391.000000000000000,1,1629,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,A
+102,102,115.000000000000000,7,1641,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,UE
+103,103,86936.000000000000000,5,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,E
+104,104,58284.000000000000000,3,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,C
+105,105,20271.000000000000000,6,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,UN
+106,106,8623.000000000000000,120,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Developed
+107,107,890.000000000000000,2,1636,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,B
+108,108,3688.000000000000000,2,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,B
+109,109,5376.000000000000000,7,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,UE
+110,110,12442.000000000000000,180,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Agriculture
+111,111,31.000000000000000,120,1641,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Developed
+112,112,1015.000000000000000,7,1636,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,UE
+113,113,8.000000000000000,2,1628,14071_41_50_51,Laurentian Pine-Oak Barrens,B
+114,114,1173.000000000000000,180,1629,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Agriculture
+115,115,233.000000000000000,1,1614,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,A
+116,116,678.000000000000000,2,1633,14440_41_50_51,Eastern Boreal Floodplain,B
+117,117,1939.000000000000000,120,1633,14440_41_50_51,Eastern Boreal Floodplain,Developed
+118,118,87.000000000000000,2,1623,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,B
+119,119,7.000000000000000,4,1629,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,D
+120,120,30.000000000000000,1,1621,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,A
+121,121,16.000000000000000,2,1641,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,B
+122,122,506.000000000000000,180,1636,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Agriculture
+123,123,10.000000000000000,180,1641,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Agriculture
+124,124,128.000000000000000,1,1633,14440_41_50_51,Eastern Boreal Floodplain,A
+125,125,46.000000000000000,2,1624,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,B
+126,126,45.000000000000000,3,1634,14660_50_51,Great Lakes Wooded Dune and Swale,C
+127,127,1.000000000000000,3,1641,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,C
+128,128,4.000000000000000,1,1616,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,A
+129,129,4.000000000000000,1,1640,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,A
+130,130,45770.000000000000000,6,1584,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,UN
+131,131,108.000000000000000,3,1584,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,C
+132,132,1494.000000000000000,120,1584,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Developed
+133,133,224877.000000000000000,2,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,B
+134,134,21866.000000000000000,6,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,UN
+135,135,46902.000000000000000,120,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Developed
+136,136,2116.000000000000000,120,1583,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Developed
+137,137,43151.000000000000000,4,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,D
+138,138,115814.000000000000000,4,1583,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,D
+139,139,23918.000000000000000,7,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,UE
+140,140,72701.000000000000000,4,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,D
+141,141,1646.000000000000000,120,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,Developed
+142,142,234.000000000000000,180,1584,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Agriculture
+143,143,10818.000000000000000,3,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,C
+144,144,758.000000000000000,7,1584,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,UE
+145,145,26225.000000000000000,3,1583,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,C
+146,146,35845.000000000000000,5,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,E
+147,147,15286.000000000000000,6,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UN
+148,148,10343.000000000000000,120,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Developed
+149,149,6874.000000000000000,4,1568,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,D
+150,150,486.000000000000000,2,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,B
+151,151,6196.000000000000000,7,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UE
+152,152,5104.000000000000000,5,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,E
+153,153,436.000000000000000,2,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,B
+154,154,30836.000000000000000,180,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Agriculture
+155,155,70504.000000000000000,3,1573,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,C
+156,156,41347.000000000000000,4,1569,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,D
+157,157,34303.000000000000000,5,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,E
+158,158,17510.000000000000000,6,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UN
+159,159,491.000000000000000,2,1584,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,B
+160,160,6682.000000000000000,3,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,C
+161,161,6994.000000000000000,7,1573,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,UE
+162,162,1522.000000000000000,7,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,UE
+163,163,6839.000000000000000,180,1573,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Agriculture
+164,164,3105.000000000000000,1,2726,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,A
+165,165,3.000000000000000,5,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,E
+166,166,1754.000000000000000,2,1583,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,B
+167,167,21433.000000000000000,180,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Agriculture
+168,168,149.000000000000000,1,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,A
+169,169,3211.000000000000000,3,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,C
+170,170,1896.000000000000000,180,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,Agriculture
+171,171,19882.000000000000000,180,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Agriculture
+172,172,11527.000000000000000,120,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Developed
+173,173,8252.000000000000000,180,1569,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Agriculture
+174,174,5344.000000000000000,120,1569,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Developed
+175,175,6798.000000000000000,7,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,UE
+176,176,3823.000000000000000,7,1569,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,UE
+177,177,3364.000000000000000,7,1583,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,UE
+178,178,32.000000000000000,1,1569,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,A
+179,179,1502.000000000000000,1,1583,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,A
+180,180,3169.000000000000000,180,1583,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Agriculture
+181,181,268.000000000000000,6,1581,14770_40_41_50_51,Boreal Acidic Peatland Systems,UN
+182,182,10746.000000000000000,4,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,D
+183,183,444.000000000000000,2,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,B
+184,184,13583.000000000000000,120,1573,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Developed
+185,185,41.000000000000000,3,1569,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,C
+186,186,174.000000000000000,6,1576,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,UN
+187,187,38.000000000000000,120,1576,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Developed
+188,188,1.000000000000000,7,1576,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,UE
+189,189,176.000000000000000,6,1575,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,UN
+190,190,1.000000000000000,3,1577,14440_41_50_51,Eastern Boreal Floodplain,C
+191,191,28225.000000000000000,3,1580,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,C
+192,192,21624.000000000000000,6,1580,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,UN
+193,193,8310.000000000000000,3,1578,14660_50_51,Great Lakes Wooded Dune and Swale,C
+194,194,465.000000000000000,120,1578,14660_50_51,Great Lakes Wooded Dune and Swale,Developed
+195,195,76.000000000000000,4,1578,14660_50_51,Great Lakes Wooded Dune and Swale,D
+196,196,59.000000000000000,1,1578,14660_50_51,Great Lakes Wooded Dune and Swale,A
+197,197,43.000000000000000,7,1578,14660_50_51,Great Lakes Wooded Dune and Swale,UE
+198,198,30.000000000000000,180,1578,14660_50_51,Great Lakes Wooded Dune and Swale,Agriculture
+199,199,1084.000000000000000,7,1580,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,UE
+200,200,757.000000000000000,2,1580,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,B
+201,201,572.000000000000000,180,1580,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Agriculture
+202,202,1536.000000000000000,120,1580,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Developed
+203,203,167.000000000000000,1,1573,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,A
+204,204,44.000000000000000,2,1573,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,B
+205,205,86.000000000000000,2,1569,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,B
+206,206,682.000000000000000,120,1568,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Developed
+207,207,815.000000000000000,7,1568,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,UE
+208,208,31.000000000000000,120,1570,13940_50_51,North-Central Interior Oak Savanna,Developed
+209,209,903.000000000000000,180,1568,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Agriculture
+210,210,106.000000000000000,2,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,B
+211,211,3906.000000000000000,6,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,UN
+212,212,6.000000000000000,3,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,C
+213,213,17.000000000000000,3,1568,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,C
+214,214,16.000000000000000,180,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Agriculture
+215,215,86.000000000000000,3,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,C
+216,216,418.000000000000000,120,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Developed
+217,217,80.000000000000000,4,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,D
+218,218,11.000000000000000,7,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,UE
+219,219,3.000000000000000,5,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,E
+220,220,85.000000000000000,120,1575,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Developed
+221,221,16.000000000000000,1,1561,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,A
+222,222,169.000000000000000,7,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,UE
+223,223,153.000000000000000,1,1568,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,A
+224,224,354.000000000000000,120,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Developed
+225,225,1.000000000000000,1,1580,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,A
+226,226,3.000000000000000,7,1575,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,UE
+227,227,3.000000000000000,180,1576,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Agriculture
+228,228,1.000000000000000,1,1576,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,A
+229,229,10.000000000000000,7,1564,13110_50,North-Central Interior Dry Oak Forest and Woodland,UE
+230,230,5.000000000000000,180,1564,13110_50,North-Central Interior Dry Oak Forest and Woodland,Agriculture
+231,231,8.000000000000000,120,1564,13110_50,North-Central Interior Dry Oak Forest and Woodland,Developed
+232,232,12.000000000000000,1,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,A
+233,233,11.000000000000000,2,1578,14660_50_51,Great Lakes Wooded Dune and Swale,B
+234,234,197.000000000000000,180,1586,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Agriculture
+235,235,3.000000000000000,4,1573,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,D
+236,236,1.000000000000000,1,1562,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,A
+237,237,23.000000000000000,1,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,A
+238,238,1.000000000000000,6,1563,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,UN
