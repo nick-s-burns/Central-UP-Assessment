@@ -8,19 +8,19 @@ library(tidyverse)
 
 ## read in raw data and sclass descriptions
 
-raw_bps_scls <- read.csv("data/bps_scl_cmbn.csv")
+raw_bps_scls <- read.csv("data/bps_scls_cmbn.csv")
 
 sclass_descriptions <- read.csv("data/scls_descriptions.csv")
 
 reference_percents <- read.csv("data/ref_con_long.csv")
 
-bps_mz2 <- read.csv("data/bps_mz2.csv")
+bps_atts <- read.csv("data/bps_atts.csv")
 
 ##  clean and prep raw combined data
 
 clean_bps_scls_cmbn <- raw_bps_scls %>%
   clean_names() %>%
-  select(-c(4, 5)) %>%
+  #select(-c(4, 5)) %>%
   unite("join_field", bps_model,label, sep = "_", remove = FALSE )
 
 ## clean and prep sclass descriptions
@@ -51,22 +51,23 @@ clean_ref_percents <- reference_percents %>%
   rename("join_field" = "model_label",
          "bps_name" = "bp_s_name" )
 
-## need to winnow this df to only the bps model codes in MZ 2
+## need to winnow this df to only the bps model codes in area of interest
 
-clean_ref_percents_mz2 <- clean_ref_percents %>%
-  filter(model_code %in% bps_mz2$BPS_MODEL)
+clean_ref_percents <- clean_ref_percents %>%
+  filter(model_code %in% bps_atts$BPS_MODEL)
 
 
 ## create 'final' dataframe with reference and current sclass percents, acres and labels
 
-## first ref con and sclass descriptions
-final_df <- left_join(clean_ref_percents_mz2, sclass_descriptions_clean) 
+## first ref con and sclass descriptions, remove BPS_NAME column to avoid duplication below
+final_df <- left_join(clean_ref_percents, sclass_descriptions_clean) %>%
+  select(-c("bps_name"))
 
 
 # looks OK, now full join to add reference percents then clean a bit
 
-final_df2 <- full_join(final_df, clean_bps_scls_cmbn) %>%
-  select(-c(6, 10, 13, 14)) %>%
+final_df2 <- full_join(final_df, clean_bps_scls_cmbn, by = "join_field") %>%
+  #select(-c(6, 10, 13, 14)) %>%
   rename( "cur_scls_count" = "count")
 
 # now for the math: need count/acres per bps, cur sclass percents and differences
@@ -79,7 +80,7 @@ final_df3 <- final_df2 %>%
          ref_scls_acres = bps_acres*(ref_percent/100),
          cur_scls_acres = cur_scls_count*0.2223945,
          cur_percent = (cur_scls_acres/bps_acres)*100) %>%
-  mutate(across(12:15, round, 0))
+  mutate(across(14:17, round, 0))
 
 # save to csv to explore in Excel, and reorder columns
 
