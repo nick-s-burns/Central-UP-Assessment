@@ -8,7 +8,7 @@ library(tidyverse)
 
 ## read in raw data and sclass descriptions
 
-raw_bps_scls <- read.csv("data/bps_scls_cmbn.csv")
+raw_bps_scls <- read.csv("data/bps_scls_cmbn_RS.csv")
 
 sclass_descriptions <- read.csv("data/scls_descriptions.csv")
 
@@ -80,10 +80,10 @@ final_df3 <- final_df2 %>%
          ref_scls_acres = bps_acres*(ref_percent/100),
          cur_scls_acres = cur_scls_count*0.2223945,
          cur_percent = (cur_scls_acres/bps_acres)*100) %>%
-  mutate(across(14:17, round, 0))
+  mutate(across(20:22, round, 0)) 
 
 # save to csv to explore in Excel, and reorder columns
 
-write.csv(final_df3, file = "data/final_df.csv", row.names=FALSE)
+write.csv(final_df3, file = "data/final_df3.csv", row.names=FALSE)
 
   
