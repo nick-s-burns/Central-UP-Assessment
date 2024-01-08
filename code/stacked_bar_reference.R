@@ -41,26 +41,6 @@ for_chart <- final_df_full %>%
   group_by(age_category, bps_name) %>%
   summarise(sum_scls_acres = sum(sum_scls_acres))
   
-
-
-
-# get labels ordered properly
-
-raw_data$age_category <- factor(raw_data$age_category, 
-                                    levels = c(
-                                      "Early1",
-                                      "Early2",
-                                      "Mid1",
-                                      "Mid2",
-                                      "Late1",
-                                      "Late2",
-                                      "Late3"
-                                    ))
-
-raw_data$age_category <- factor(raw_data$age_category, levels = rev(levels(raw_data$age_category)))
-
-
-
 plot_acres <-
   ggplot(for_chart, aes(fill = age_category, y = sum_scls_acres, x = reorder(bps_name, -sum_scls_acres))) +
   geom_bar(position = "stack", stat = "identity") +

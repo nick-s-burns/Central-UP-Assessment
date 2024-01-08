@@ -8,7 +8,7 @@ library(tidyverse)
 
 ## read in data
 
-raw_data <- read.csv("data/final_df.csv")
+raw_data <- read.csv("data/final_df_full.csv")
 
 
 ## filter, group and add helper columns
@@ -27,6 +27,16 @@ old_growth_loss <- raw_data %>%
 
 # try arrow plot
 
+geographies <- c(
+  "Boreal ",
+  "Central Interior and Appalachian ",
+  "Great Lakes ",
+  "Laurentian ",
+  "Laurentian-Acadian ",
+  "North-Central Interior ")
+
+old_growth_loss$bps_name <- gsub(paste(geographies, collapse = "|"), "", old_growth_loss$bps_name)
+
 
 arrow_plot <- old_growth_loss |> 
   ggplot(aes(
@@ -39,7 +49,7 @@ arrow_plot <- old_growth_loss |>
   labs(
     x = 'Percent Change', 
     y = element_blank(),
-    title = 'Changes in Late Succession Classes Historical to ~2020',
+    title = 'Changes in Late Succession Classes \nHistorical to ~2020',
     subtitle = 'Arrows in descending order by total extent of ecosystem'
   ) +
   scale_color_manual(
