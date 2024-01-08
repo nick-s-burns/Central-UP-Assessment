@@ -40,6 +40,16 @@ for_chart <- final_df_full %>%
                                                              "Late3"))) %>%
   group_by(age_category, bps_name) %>%
   summarise(sum_scls_acres = sum(sum_scls_acres))
+
+geographies <- c(
+  "Boreal ",
+  "Central Interior and Appalachian ",
+  "Great Lakes ",
+  "Laurentian ",
+  "Laurentian-Acadian ",
+  "North-Central Interior ")
+
+
   
 plot_acres <-
   ggplot(for_chart, aes(fill = age_category, y = sum_scls_acres, x = reorder(bps_name, -sum_scls_acres))) +
